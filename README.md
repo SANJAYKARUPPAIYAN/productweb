@@ -786,9 +786,9 @@ styles.css
             margin-right:auto;
 
         }
-        ```
+        
 
-
+```
 ## Output:
 ![output](./out1.png)
 ![output](./out2.png)
